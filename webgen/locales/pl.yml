@@ -1,0 +1,30 @@
+---
+description: Super rozdzielczość dla pojedynczego obrazu w stylu Anime przy użyciu głębokich sieci neuronowych. Wspieramy również zdjęcia.
+show_demonstration: Pokaż pełną demonstrację
+go_to_github: Przejdź do GitHub
+image_choosing: Wybierz obraz
+type_url: Wpisz adres URL obrazu
+choose_file: Lub wybierz plik
+file_limits: "Limity: Rozmiar: 5MB, Redukcja szumów: 3000x3000px, Upscaling: 1500x1500px."
+style: Styl
+artwork: Obrazek
+photo: Zdjęcie
+noise_reduction: Redukcja szumów
+expect_jpeg: Spodziewaj się artefaktów JPEG
+nr_none: Brak
+nr_low: Niska
+nr_medium: Średnia
+nr_high: Wysoka
+nr_highest: Najwyższa
+nr_hint: "Używaj redukcji szumów tylko jeśli obraz posiada szumy, w przeciwnym wypadku możesz spowodować odwrotny efekt do zamierzonego."
+upscaling: Upscaling
+up_none: Brak
+tta: TTA
+tta_best_effort: "n-pass auto"
+tta_rule: "Pokaż zasadę `n-pass auto`."
+tta_hint: "TTA sprawia, że jakość jest stablina, ale ogranicza rozdzielczość obrazu."
+button_convert: Konwertuj
+button_download: Pobierz
+hints:
+  - "Jeśli używasz Firefoxa, naciśnij CTRL+S, żeby zapisać obraz. Opcja \"Zapisz obraz jako\" nie działa."
+   
